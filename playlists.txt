@@ -1,0 +1,5 @@
+Playlist Name,URL,Start ID
+MGTOW,https://www.youtube.com/playlist?list=PLHm4nc4NJPC1priHBf3Nd9bJryvWQ38Vs,325
+Gabor Zolna,https://www.youtube.com/playlist?list=PLHm4nc4NJPC2Mhp1LY35VZw6Yiz4kBtwC,100
+Election 2016,https://www.youtube.com/playlist?list=PLHm4nc4NJPC3iLRs5c4qNuakNAAZ_L_tH,25
+President Trump,https://www.youtube.com/playlist?list=PLHm4nc4NJPC2Ds5hxjp3RvYHvNlKSjuDn,1
